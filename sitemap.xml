@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://codingbro24.github.io/manikanta-portfolio/</loc>
-  </url>
-<url><loc>https://is-cool.online/passive-income.html</loc></url>
-  <url><loc>https://is-cool.online/resources.html</loc></url>
+  <url><loc>https://is-cool.online/</loc></url>
+  <url><loc>https://is-cool.online/passive-income/</loc></url>
+  <url><loc>https://is-cool.online/resources/</loc></url>
 </urlset>
